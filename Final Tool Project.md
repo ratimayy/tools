@@ -34,5 +34,9 @@ This web application utilizes the Hugging Face API for text summarization, along
 
 ## Contributors
 6610422001  Ratima  Sattaolankit
+
+
 6610422021  
+
+
 6610422024
