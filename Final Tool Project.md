@@ -9,6 +9,11 @@ This web application utilizes the Hugging Face API for text summarization, along
 - **Word Count**: Displays the word count of both the input text and its summary.
 - **Word Frequency Scatter Plot**: Visualizes the frequency of words in both the input text and its summary.
 - **Word Clouds**: Generates word clouds for the input text and its summary, providing a visual representation of word frequency.
+
+
+  Example from using text input from https://edition.cnn.com/2024/04/19/business/cinemark-drink-lawsuit/index.html
+
+  
 ![Visualization of the dataset](https://github.com/ratimayy/tools/blob/main/pic1.png)
 ![Visualization of the dataset](https://github.com/ratimayy/tools/blob/main/pic2.png)
 ![Visualization of the dataset](https://github.com/ratimayy/tools/blob/main/pic3.png)
@@ -25,8 +30,6 @@ This web application utilizes the Hugging Face API for text summarization, along
 - Plotly: A Python graphing library that makes interactive, publication-quality graphs.
 - Requests: A simple HTTP library for Python.
 - WordCloud: A Python library for creating word clouds.
-
-[![Visualization of the dataset](https://github.com/ratimayy/tools/blob/main/Screenshot%202567-04-20%20at%2019.31.12.png)]
 
 
 ## Contributors
