@@ -23,7 +23,7 @@ This web application utilizes the Hugging Face API for text summarization, along
 - Requests: A simple HTTP library for Python.
 - WordCloud: A Python library for creating word clouds.
 
-https://github.com/ratimayy/tools/blob/main/Screenshot%202567-04-20%20at%2019.31.12.png
+[![Visualization of the dataset](https://github.com/ratimayy/tools/blob/main/Screenshot%202567-04-20%20at%2019.31.12.png)]
 
 
 ## Contributors
